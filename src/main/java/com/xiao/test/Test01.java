@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("heihei , idea git3");
         System.out.println("master, git");
         System.out.println("hot-fix, git");
+        System.out.println("github, git");
     }
 }
