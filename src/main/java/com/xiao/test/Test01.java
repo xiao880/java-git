@@ -5,5 +5,6 @@ public class Test01 {
         System.out.println("heihei , idea git");
         System.out.println("heihei , idea git2");
         System.out.println("heihei , idea git3");
+        System.out.println("hot-fix, git");
     }
 }
